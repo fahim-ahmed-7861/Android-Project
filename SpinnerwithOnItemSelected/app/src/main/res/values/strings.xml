@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">SpinnerwithOnItemSelected</string>
+
+    <string-array name="countryname">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Nepal</item>
+        <item>China</item>
+        <item>Pakistan</item>
+        <item>Serilanka</item>
+        <item>Bahrain</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Azerbaijan</item>
+        <item>Bhutan</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+        <item>Germany</item>
+        <item>Belgium</item>
+        <item>Uruguay</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="population">
+
+        <item>18 million</item>
+        <item>125 million</item>
+        <item>78 million</item>
+        <item>58 million</item>
+        <item>28 million</item>
+        <item>38 million</item>
+        <item>21 million</item>
+        <item>11 million</item>
+        <item>12 million</item>
+        <item>18 million</item>
+        <item>38 million</item>
+        <item>91 million</item>
+        <item>36 million</item>
+        <item>28 million</item>
+        <item>22 million</item>
+        <item>20 million</item>
+
+
+
+    </string-array>
+
+</resources>

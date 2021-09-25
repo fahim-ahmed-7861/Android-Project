@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="#FFFF"
+    tools:context=".MainActivity">
+
+
+   <Button
+       android:text="OK"
+       android:id="@+id/okkk"
+       android:textStyle="bold"
+       android:textSize="20dp"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content" />
+
+   <TextView
+
+       android:id="@+id/t1"
+       android:textSize="20dp"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       />
+
+
+   <SearchView
+       android:background="@android:color/holo_blue_dark"
+       android:queryHint="search country name"
+       android:id="@+id/searchid"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+
+   </SearchView>
+
+   <ListView
+       android:id="@+id/lisviewid"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:clickable="true"
+       android:dividerHeight="2dp"
+       android:listSelector="#ff33">
+
+
+   </ListView>
+
+
+
+
+
+
+
+</LinearLayout>

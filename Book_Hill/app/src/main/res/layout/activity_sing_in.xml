@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="2"
+    tools:context=".SignIn">
+
+    <LinearLayout
+        android:layout_weight="1.2"
+        android:background="@drawable/loginbackroundnow"
+      android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:padding="35dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/e1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:drawablePadding="10dp"
+           android:drawableLeft="@drawable/email"
+            android:paddingLeft="10dp"
+
+           android:hint="E-mail"
+
+            android:background="@drawable/ovaledit"/>
+
+        <EditText
+            android:id="@+id/e2"
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:drawablePadding="10dp"
+            android:drawableLeft="@drawable/lock"
+            android:paddingLeft="10dp"
+
+            android:hint="Password"
+
+            android:background="@drawable/ovaledit"/>
+
+
+        <Button
+            android:id="@+id/login"
+            android:layout_marginTop="35dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Sign in"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/loginstyle"/>
+
+
+        <TextView
+            android:layout_marginTop="30dp"
+            android:id="@+id/wrong"
+            android:text="        If you have no account, please register first"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        </LinearLayout>
+
+
+
+</LinearLayout>

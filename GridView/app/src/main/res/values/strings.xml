@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GridView</string>
+
+    <string-array name="countryname">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Nepal</item>
+        <item>China</item>
+        <item>Pakistan</item>
+        <item>Serilanka</item>
+        <item>Bahrain</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Azerbaijan</item>
+        <item>Bhutan</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+        <item>Germany</item>
+        <item>Belgium</item>
+        <item>Uruguay</item>
+
+
+
+    </string-array>
+</resources>

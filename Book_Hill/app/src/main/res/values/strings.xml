@@ -1,0 +1,393 @@
+<resources>
+    <string name="app_name">Book_Hill</string>
+
+    <string name="About">
+        Book Hill is an online book shop where where the customer can purchase
+        books online.Through a web browser the customers can choice their required
+        items,later can add to the shopping cart and finally purchase the books.
+        The main objective of “Book Hill Online Book Store” is to provide
+        an essence of online book store via a simple and yet powerful medium.We hope
+        it will fulfil all your expectation and remain as your best choice always.
+    </string>
+
+    <string name="title_text">Alert title</string>
+
+    <string name="instruction">Which book you want ? (click on picture) </string>
+
+    <string name="exit">Do you want to exit ?</string>
+
+    <string name="Button1">স্কুল ও কলেজ বই</string>
+
+    <string name="Button2">ইসলামি বই</string>
+
+    <string name="Button3">কম্পিউটার, ইন্টারনেট, ফ্রিল্যান্সিং ও আউটসোর্সিং</string>
+
+    <string name="Button4">মুক্তিযুদ্ধ</string>
+
+    <string name="Button5">উপন্যাস ও গল্প</string>
+
+    <string name="Button6">ভর্তি ও নিয়োগ পরীক্ষা</string>
+
+    <string name="Button7">মেডিকেল</string>
+
+    <string name="text">Book Categories</string>
+
+    <string name="quotes">
+
+        A room without books\n\tis like\n a body without a soul.\n\n
+
+
+    </string>
+
+    <string name="writtername">
+
+        ― Marcus Tullius CiceroA
+    </string>
+
+
+    <string-array name="programmingbook">
+
+        <item>প্রোগ্রামিং কনটেস্ট ডেটা স্ট্রাকচার ও অ্যালগরিদম</item>
+
+        <item>কম্পিউটার প্রোগ্রামিং ৩য় খণ্ড</item>
+
+        <item>কম্পিউটার প্রোগ্রামিং-দ্বিতীয় খণ্ড</item>
+
+        <item>হাবলুদের জন্য প্রোগ্রামিং</item>
+
+        <item>প্রোগ্রামিংয়ের বলদ টু বস</item>
+
+        <item>কম্পিউটার প্রোগ্রামিং-প্রথম খণ্ড</item>
+
+        <item>৫২টি প্রোগ্রামিং সমস্যা ও সমাধান</item>
+
+        <item>জাভা প্রোগ্রামিং</item>
+
+        <item>পাইথন দিয়ে প্রোগ্রামিং শেখা -১ থেকে ৩ খন্ড</item>
+
+        <item>আউটসোর্সিং সিরিজ ১ম, ২য়, ৩য় ও ৪র্থ</item>
+
+
+    </string-array>
+
+    <string-array name="programmingprice">
+
+        <item>306</item>
+
+        <item>213</item>
+
+        <item>213</item>
+
+        <item>204</item>
+
+        <item>176</item>
+
+        <item>221</item>
+
+        <item>204</item>
+
+        <item>425</item>
+
+        <item>545</item>
+
+        <item>595</item>
+
+
+    </string-array>
+
+    <string-array name="libarationbook">
+
+        <item>মুক্তিযুদ্ধের ইতিহাস</item>
+
+        <item>দেয়াল</item>
+
+        <item>একাত্তরের দিনগুলি</item>
+
+        <item>ছোটদের মুক্তিযুদ্ধের ইতিহাস</item>
+
+        <item>মা</item>
+
+        <item>আমার বন্ধু রাশেদ</item>
+
+        <item>জোছনা ও জননীর গল্প</item>
+
+        <item>একাত্তরের চিঠি</item>
+
+        <item>একাত্তরের ডায়েরী</item>
+
+        <item>আগুনের পরশমণি</item>
+
+
+    </string-array>
+
+    <string-array name="libarationprice">
+
+        <item>10</item>
+
+        <item>319</item>
+
+        <item>294</item>
+
+        <item>30</item>
+
+        <item>336</item>
+
+        <item>147</item>
+
+        <item>630</item>
+
+        <item>269</item>
+
+        <item>204</item>
+
+        <item>168</item>
+
+
+    </string-array>
+
+    <string-array name="admissionbook">
+
+        <item>সাধারণ জ্ঞান (নতুন বিশ্ব)</item>
+
+        <item>এমপি থ্রি(বাংলাদেশ)</item>
+
+        <item>এমপি থ্রী(আন্তর্জাতিক)</item>
+
+        <item>বাংলা সাহিত্যের ইতিহাস</item>
+
+        <item>ফোরজি নিউয়েষ্ট গ্রামার</item>
+
+        <item>IELTS Speaking Book</item>
+
+        <item>Barrons GRE/SAT </item>
+
+        <item>সংখ্যাতত্ত্বের নানা কথা</item>
+
+        <item>প্রফেসরস জব সলিউশন</item>
+
+
+    </string-array>
+
+    <string-array name="scbook">
+
+        <item>পদার্থবিজ্ঞান-১ম পত্র</item>
+
+        <item>পদার্থবিজ্ঞান ১ম পত্র</item>
+
+        <item>রসায়ন-১ম পত্র</item>
+
+        <item>জীববিজ্ঞান-১ম পত্র</item>
+
+        <item>উচ্চতর গণিত-প্রথম পত্র</item>
+
+        <item>পদার্থবিজ্ঞান-২য় পত্র</item>
+
+        <item>রসায়ন-২য় পত্র</item>
+
+        <item>উচ্চতর গণিত-দ্বিতীয় পত্র</item>
+
+        <item>জীববিজ্ঞান-দ্বিতীয় পত্র</item>
+
+        <item>তথ্য ও যোগাযোগ প্রযুক্তি</item>
+
+    </string-array>
+
+    <string-array name="scprice">
+
+        <item>302</item>
+
+        <item>380</item>
+
+        <item>309</item>
+
+        <item>220</item>
+
+        <item>171</item>
+
+        <item>370</item>
+
+        <item>342</item>
+
+        <item>339</item>
+
+        <item>144</item>
+
+        <item>313</item>
+
+
+    </string-array>
+
+    <string-array name="admissionprice">
+
+        <item>252</item>
+
+        <item>374</item>
+
+        <item>408</item>
+
+        <item>455</item>
+
+        <item>444</item>
+
+        <item>213</item>
+
+        <item>276</item>
+
+        <item>132</item>
+
+        <item>714</item>
+
+
+    </string-array>
+
+    <string-array name="islambook">
+
+        <item>কোরান শরিফ : সরল বঙ্গানুবাদ</item>
+
+        <item>নূরানী বাংলা কোরআন শরীফ</item>
+
+        <item>আল-কুরআনের বিষয়ভিত্তিক আয়াত</item>
+
+        <item>সহীহ বোখারী শরীফ</item>
+
+        <item>ইসলামের ইতিহাস ৩য় খণ্ড</item>
+
+        <item>বি স্মার্ট উইথ মুহাম্মাদ</item>
+
+        <item>আরজ আলী সমীপে</item>
+
+        <item>মহানবীর (স:) জীবনী</item>
+
+        <item>নামাজ শিক্ষা</item>
+
+        <item>মহানবী (সা:) এর শ্রেষ্ঠ বাণী</item>
+
+
+    </string-array>
+
+    <string-array name="storybook">
+
+        <item>মিসির আলি সমগ্র-১</item>
+
+        <item>আমি তপু</item>
+
+        <item>শেষ বিকেলের মেয়ে</item>
+
+        <item>দীপু নাম্বার টু</item>
+
+        <item>হিমু সমগ্র-২</item>
+
+        <item>The Alchemist</item>
+
+        <item>শার্লক হোমস রচনাসমগ্র</item>
+
+        <item>মনোজদের অদ্ভুত বাড়ি</item>
+
+        <item>ব্যোমকেশ সমগ্র</item>
+
+        <item>ফেলুদা সমগ্র</item>
+
+
+    </string-array>
+
+    <string-array name="storyprice">
+
+        <item>680</item>
+
+        <item>132</item>
+
+        <item>106</item>
+
+        <item>132</item>
+
+        <item>468</item>
+
+        <item>665</item>
+
+        <item>425</item>
+
+        <item>238</item>
+
+        <item>1140</item>
+
+        <item>1900</item>
+
+
+    </string-array>
+    <string-array name="islamprice">
+
+        <item>383</item>
+
+        <item>392</item>
+
+        <item>407</item>
+
+        <item>696</item>
+
+        <item>494</item>
+
+        <item>188</item>
+
+        <item>200</item>
+
+        <item>339</item>
+
+        <item>281</item>
+
+        <item>180</item>
+
+
+    </string-array>
+
+    <string-array name="mdbook">
+
+        <item>Human Genetics</item>
+
+        <item>Essentials of Haematology</item>
+
+        <item>Textbook of Microbiology</item>
+
+        <item>Human Anatomy(Volume -1)</item>
+
+        <item>Essentials Of Clinical Pathology</item>
+
+        <item>Endeavour Surgery Paper-2</item>
+
+        <item>Endeavour Gyneacology Paper-2</item>
+
+        <item>Essential Orthopaedics</item>
+
+        <item>Parasitology Protozoology and Helminthology </item>
+
+        <item>Essentials of Perioperative Nursing</item>
+
+
+    </string-array>
+
+    <string-array name="mdprice">
+
+        <item>891</item>
+
+        <item>995</item>
+
+        <item>990</item>
+
+        <item>844</item>
+
+        <item>810</item>
+
+        <item>340</item>
+
+        <item>550</item>
+
+        <item>891</item>
+
+        <item>855</item>
+
+        <item>810</item>
+
+
+    </string-array>
+
+
+</resources>

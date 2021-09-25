@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string name="bdtext">BANGLADESH\n\n
+
+
+        Despite recent progress in Bangladesh in the areas of poverty and human development indicators such as literacy and life expectancy, inequalities in income and consumption rates have increased, with 32% of the population living below the poverty line.\n\n
+
+Bangladesh is one of the world’s most densely populated countries; the size of Illinois, Bangladesh has a population of 156 million people, half the population of the United States. Despite recent progress out of poverty and increasing human development indicators such as literacy and life expectancy, inequalities in income and consumption rates have increased (UNDP 2005). 32% of the population lives below the national poverty line, most of whom are women and children. The prevalence of child (under 5) malnutrition is 33%, one of the highest in the world .\n\n
+The disproportionate poverty faced by women and girls comes as a result of discrimination and exclusion within Bangladeshi society, struggling to establish their rights and influence in decision-making processes. Traditional practices such as dowries, child marriages and the relegation of being last to eat have created a demeaning and dangerous sociopolitical context for girls and women. (World Vision, 2014)\n\n
+
+Following many years of political turmoil after independence in 1971, Bangladesh emerged as a democracy in 1990. However today, Bangladesh suffers from political instability and agitation, weak and dysfunctional governance and ‘institutionalized political violence’ (UNDP 2005). This climate has led to one of the highest concentrations of NGO activity in the world, ranging from service delivery to community mobilization working with the poorest of the poor, often marginalized within Bangladeshi culture.\n\n\n
+
+Bangladesh’s stability is further threatened by increasingly common environmental disasters, and is extremely vulnerable to the effects of climate change. Furthermore, many Bangladeshis above the poverty line do not have economic safety nets, and therefore could fall back into poverty if they are struck by natural disasters or lose their jobs.
+
+
+
+
+    </string>
+
+
+    <string name="indiatext">
+
+INDIA\n\n
+India is a prominent global voice that has made significant progress on human development over the past 60 years, but the benefits of a growing economy are not shared equally: the country is still home to one-third of the world’s poor.\n\n
+
+India is the world’s largest democracy and nearly 1.3 billion citizens. The economy is among the top 10 percentile of fastest growing, and over the past 60 years, life expectancy nearly doubled and adult literacy more than quadrupled.\n\n
+
+Between 2005 and 2010, 53 million people were lifted out of poverty. But in 2010, 69% still lived on less than US $2 a day, and 33% on less than US $1.25 a day. With a national goal of increased shared prosperity (increasing absolute number of people who are socially included, reasonably secure and not poor), means more than lifting people out of poverty. Gender inequality is pervasive, and the ratio of girl children to boy children is decreasing.\n Educational attainment is low, and India holds one-third of the world’s illiterate. India must overcome enormous structural challenges to sustain a population out of poverty.\n\n
+
+
+    </string>
+
+    <string-array name="country_name">
+
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Nepal</item>
+        <item>China</item>
+        <item>Pakistan</item>
+        <item>Serilanka</item>
+        <item>Bahrain</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Azerbaijan</item>
+        <item>Bhutan</item>
+        <item>Saudi Arab</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+        <item>Germany</item>
+        <item>Belgium</item>
+        <item>Uruguay</item>
+
+
+    </string-array>
+
+
+</resources>

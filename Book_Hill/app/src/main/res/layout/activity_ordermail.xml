@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_height="match_parent"
+    tools:context=".Ordermail">
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Please fill the form !"
+        android:gravity="center"
+
+        />
+
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:id="@+id/name"
+        android:hint="Enter Your Name"
+        android:background="@drawable/ovaledit"
+        android:layout_width="match_parent"
+        android:paddingLeft="20dp"
+        android:layout_height="65dp" />
+
+
+    <EditText
+        android:id="@+id/feedback"
+        android:hint="Enter You Address"
+        android:paddingLeft="20dp"
+        android:background="@drawable/ovaledit"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="65dp" />
+
+    <LinearLayout
+
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="100dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_marginRight="10dp"
+            android:id="@+id/send"
+            android:text="Send"
+            android:background="@color/Green"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+
+            android:id="@+id/clear"
+            android:textColor="@color/white"
+            android:background="@color/holo_red_dark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clear"
+
+            />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

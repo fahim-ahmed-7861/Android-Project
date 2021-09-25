@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#22d6ff"
+  android:stretchColumns="1"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity">
+    <!--android:collapseColumns="3" invisible for coloum 3-->
+    <TableRow
+
+        android:id="@+id/tablerow"
+        android:layout_marginTop="20dp"
+        >
+        <TextView
+            android:layout_span="4"
+            android:layout_gravity="center"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:text="Student Details"
+
+            />
+
+
+        </TableRow>
+
+    <TableRow
+
+
+        android:id="@+id/headerid"
+        android:background="#78c785"
+        android:layout_marginTop="20dp"
+        >
+
+        <TextView
+
+            android:layout_gravity="center"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="ID"
+            android:textSize="16dp"
+
+            android:textStyle="bold" />
+
+        <TextView
+
+            android:layout_gravity="center"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:text="Name"
+
+            />
+
+
+        <TextView
+            android:layout_gravity="center"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:text="CGPA"
+
+            />
+
+
+        <TextView
+            android:layout_gravity="center"
+            android:paddingLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:text="DOB"
+
+            />
+
+
+    </TableRow>
+
+    <TableRow
+
+      android:id="@+id/r0"
+    android:background="#FFF"
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="171-115-109"
+            android:textSize="12dp"
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:paddingRight="10dp"
+            android:paddingLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:text="Fahim Ahmed Shojib"
+
+            />
+
+
+        <TextView
+            android:paddingRight="10dp"
+            android:paddingLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:text="3.70"
+
+            />
+
+
+        <TextView
+
+            android:paddingLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:text="26/08/1996"
+
+            />
+
+
+    </TableRow>
+    <TableRow
+
+        android:id="@+id/r1"
+        android:background="#FFF"
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="171-115-081"
+            android:textSize="12dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:paddingRight="10dp"
+            android:paddingLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:text="Showmen Purukastra"
+
+            />
+
+
+        <TextView
+            android:paddingRight="10dp"
+            android:paddingLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:text="3.38"
+
+            />
+
+
+        <TextView
+
+            android:paddingLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:text="10/10/1996"
+
+            />
+
+
+    </TableRow>
+
+    <TableRow
+
+        android:id="@+id/r2"
+        android:background="#FFF"
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="171-115-090"
+            android:textSize="12dp"
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:paddingRight="10dp"
+            android:paddingLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:text="Desh Roy Chowdhury"
+
+            />
+
+
+        <TextView
+            android:paddingRight="10dp"
+            android:paddingLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:text="3.90"
+
+            />
+
+
+        <TextView
+
+            android:paddingLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:text="19/03/1998"
+
+            />
+
+
+    </TableRow>
+
+
+    <TableRow
+
+        android:id="@+id/buttonrow">
+
+        <Button
+
+            android:text="OKK"
+            android:layout_column="2"
+            android:textSize="15sp"
+
+
+            />
+
+        <Button
+
+            android:text="clear"
+
+            android:textSize="15sp"
+
+
+            />
+
+
+
+
+    </TableRow>
+
+</TableLayout>

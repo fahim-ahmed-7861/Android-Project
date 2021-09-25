@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">OnlineBook</string>
+
+    <string name="booklist">Book List</string>
+    <string name="Price">Price</string>
+    <string name="Schaums1">Programming with C++</string>
+    <string name="subin1">কম্পিউটার প্রোগ্রামিং (প্রথম খন্ড)</string>
+    <string name="subin2">কম্পিউটার প্রোগ্রামিং  (দ্বিতীয় খণ্ড)</string>
+    <string name="subin3">কম্পিউটার প্রোগ্রামিং ৩য় খণ্ড :\nডেটা স্ট্রাকচার ও অ্যালগরিদম\nপরিচিতি</string>
+
+    <string name="Button1">স্কুল ও কলেজ বই</string>
+
+    <string name="Button2">ইসলামি বই</string>
+
+    <string name="Button3">কম্পিউটার, ইন্টারনেট, ফ্রিল্যান্সিং ও আউটসোর্সিং</string>
+
+    <string name="Button4">মুক্তিযুদ্ধ</string>
+
+    <string name="Button5">উপন্যাস ও গল্প</string>
+
+    <string name="Button6">ভর্তি ও নিয়োগ পরীক্ষা</string>
+
+    <string name="Button7">মেডিকেল</string>
+
+    <string name="text">Book Categories</string>
+
+    <string name="highermath">উচ্চতর গণিত সমাধান-১ম পত্র</string>
+
+    <string name="chemistry">রসায়ন-১ম পত্র\n(একাদশ-দ্বাদশ শ্রেণি)</string>
+
+    <string name="ict">তথ্য ও যোগাযোগ প্রযুক্তি\n(একাদশ-দ্বাদশ শ্রেণি)</string>
+
+    <string name="physics">পদার্থবিজ্ঞান-১ম পত্র\n(একাদশ-দ্বাদশ শ্রেণি)</string>
+
+    <string name="biology">জীববিজ্ঞান-১ম পত্র\n(একাদশ -দ্বাদশ শ্রেণি)</string>
+
+    <string name="medibook1">Human Physiology</string>
+
+    <string name="medibook2">Essential of Medical\nPhysiology</string>
+
+    <string name="medibook3">Viva Voice In Anatomy </string>
+
+    <string name="medibook4">Biochemistry</string>
+
+    <string name="medibook5">Concise Inorganic\nChemistry</string>
+
+    <string name="addmission1">Saifurs : Viva Question\nBank and Solution</string>
+
+    <string name="addmission2">ওরাকল জব সলিউশন</string>
+
+    <string name="addmission3">এক্সিলেন্ট বেসরকারী \n্রভাষক নিবন্ধন গাইড</string>
+
+    <string name="addmission4">প্রাক-প্রাথমিক,\nপ্রাথমিক সহকারি\nও প্রধান শিক্ষক নিয়োগ\nপরীক্ষা : প্রশ্নব্যাংক</string>
+
+    <string name="addmission5">বাংলাদেশ এ্যাডভোকেটশিপ \nমৌখিক (VIVA)\nপরীক্ষা হ্যান্ডবুক</string>
+
+    <string name="textschool">Which book you want ? (click right button) </string>
+
+    <string name="liberation1">এইতো আমার বাংলাদেশ</string>
+
+    <string name="liberation2">একাত্তরের বদ্ধঘর </string>
+
+    <string name="liberation3">উত্তাল একাত্তর</string>
+
+    <string name="liberation4">একাত্তরে মিরপুর</string>
+
+    <string name="liberation5">মুক্তিযুদ্ধের কিশোর\nগল্প (৮টি গল্প)</string>
+
+    <string name="islamic1">হালাল বিনোদন</string>
+
+    <string name="islamic2">আমি জুনাইদ\nজামশেদ বলছি</string>
+
+    <string name="islamic3">কিতাবুস সুন্নাহ </string>
+
+    <string name="islamic4">তিনিই আমার রব</string>
+
+    <string name="islamic5">জীবন ও সংগ্রাম</string>
+
+    <string name="Storybook1">নিঃসঙ্গ নক্ষত্র</string>
+
+    <string name="Storybook2">এই হিমু! এই</string>
+
+    <string name="Storybook3">জীবন ও সংগ্রাম</string>
+
+    <string name="Storybook4">তোমার তুলনা তুমি</string>
+
+    <string name="Storybook5">অগ্নিবৃষ্টি    </string>
+
+    <string name="exit">Do you want exit ?</string>
+
+    <string name="title">Exit</string>
+
+    <string name="programming3">আউটসোর্স থেকে আউটসোর্সিং</string>
+
+    <string name="programming4">ফ্রিল্যান্সিং কী : ফ্রিল্যান্সিং\nপেশায় সফল হবার উপায় </string>
+
+    <string name="programming5">Programming in C#</string>
+
+</resources>

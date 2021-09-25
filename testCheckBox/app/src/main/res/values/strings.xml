@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">testCheckBox</string>
+
+
+    <string-array name="booklist">
+
+        <item>Human Physiology</item>
+
+        <item>Essential of Medical\nPhysiology</item>
+
+        <item>Viva Voice In Anatomy</item>
+
+
+    </string-array>
+
+    <string-array name="bookprice">
+
+        <item>170</item>
+
+        <item>290</item>
+
+        <item>900</item>
+
+    </string-array>
+</resources>

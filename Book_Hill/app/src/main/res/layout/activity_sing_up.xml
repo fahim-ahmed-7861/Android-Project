@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:layout_height="match_parent"
+
+    tools:context=".SignUp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="It's free and only takes a minutes"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:gravity="center"
+
+        />
+
+    <TextView
+        android:layout_marginTop="20dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Username"
+
+        android:textSize="20dp"
+
+        />
+    
+    <EditText
+        android:id="@+id/user"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/round"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email Address"
+
+        android:textSize="20dp"
+
+        />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/round"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+
+        android:textSize="20dp"
+
+        />
+
+    <EditText
+        android:id="@+id/pass"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/round"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirm Password"
+
+        android:textSize="20dp"
+
+        />
+
+    <EditText
+        android:id="@+id/confirm"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/round"/>
+
+    <Button
+        android:id="@+id/signup"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Sign up"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/oval"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:layout_height="wrap_content"
+        android:text="      By clicking Sign Up button , you register for our app "/>
+
+
+
+</LinearLayout>

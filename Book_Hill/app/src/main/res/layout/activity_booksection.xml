@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Booksection">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/book"
+                android:scaleType="fitXY"
+
+
+                />
+
+
+            <TextView
+
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/text"
+                android:textSize="30dp"
+                android:layout_gravity="center_horizontal"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_marginBottom="20dp"
+
+
+                />
+
+            <Button
+                android:id="@+id/schoolclg"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:text="@string/Button1"
+                android:textSize="30dp"
+
+
+                />
+
+            <Button
+                android:id="@+id/islamic"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:text="@string/Button2"
+                android:textSize="30dp"
+                android:textColor="#FFFFFF"
+                android:backgroundTint="@color/holo_orange_dark"
+
+                />
+
+            <Button
+                android:id="@+id/programming"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:textColor="#FFFFFF"
+
+                 android:backgroundTint="@color/Green"
+                android:text="@string/Button3"
+                android:textSize="30dp"
+
+
+                />
+
+            <Button
+                android:id="@+id/Liberation"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:text="@string/Button4"
+                android:backgroundTint="@color/DarkBlue"
+                android:textSize="30dp"
+
+
+                />
+
+            <Button
+                android:id="@+id/story"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:text="@string/Button5"
+                android:backgroundTint="@color/LightSeaGreen"
+                android:textSize="30dp"
+
+
+                />
+
+            <Button
+                android:id="@+id/admission"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:backgroundTint="@color/black"
+                android:text="@string/Button6"
+                android:textSize="30dp"
+
+
+                />
+            <Button
+                android:id="@+id/medical"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:text="@string/Button7"
+                android:backgroundTint="@color/CornflowerBlue"
+                android:textSize="30dp"
+
+
+                />
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </ScrollView>
+
+</LinearLayout>

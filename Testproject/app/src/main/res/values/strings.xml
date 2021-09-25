@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Testproject</string>
+
+    <string name="quotes">
+
+        A room without books\n\tis like\n a body without a soul.\n\n
+
+
+    </string>
+
+    <string name="writtername">
+
+        ― Marcus Tullius CiceroA
+    </string>
+</resources>

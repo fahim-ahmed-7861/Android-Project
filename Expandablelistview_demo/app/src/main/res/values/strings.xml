@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Expandable listview_demo</string>
+
+    <string-array name="parent_name">
+
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Nepal</item>
+        <item>China</item>
+        <item>Pakistan</item>
+        <item>Serilanka</item>
+        <item>Bahrain</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Azerbaijan</item>
+        <item>Bhutan</item>
+        <item>Saudi Arab</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+        <item>Germany</item>
+        <item>Belgium</item>
+        <item>Uruguay</item>
+
+
+    </string-array>
+
+    <string-array name="child_name">
+
+      <item>  Despite recent progress in Bangladesh in the areas of poverty and human development indicators such as literacy and life expectancy, inequalities in income and consumption rates have increased, with 32% of the population living below the poverty line.\n\n
+
+Bangladesh is one of the world’s most densely populated countries; the size of Illinois, Bangladesh has a population of 156 million people, half the population of the United States. Despite recent progress out of poverty and increasing human development indicators such as literacy and life expectancy, inequalities in income and consumption rates have increased (UNDP 2005). 32% of the population lives below the national poverty line, most of whom are women and children. The prevalence of child (under 5) malnutrition is 33%, one of the highest in the world .\n\n
+The disproportionate poverty faced by women and girls comes as a result of discrimination and exclusion within Bangladeshi society, struggling to establish their rights and influence in decision-making processes. Traditional practices such as dowries, child marriages and the relegation of being last to eat have created a demeaning and dangerous sociopolitical context for girls and women. (World Vision, 2014)\n\n
+
+Following many years of political turmoil after independence in 1971, Bangladesh emerged as a democracy in 1990. However today, Bangladesh suffers from political instability and agitation, weak and dysfunctional governance and ‘institutionalized political violence’ (UNDP 2005). This climate has led to one of the highest concentrations of NGO activity in the world, ranging from service delivery to community mobilization working with the poorest of the poor, often marginalized within Bangladeshi culture.\n\n\n
+
+Bangladesh’s stability is further threatened by increasingly common environmental disasters, and is extremely vulnerable to the effects of climate change. Furthermore, many Bangladeshis above the poverty line do not have economic safety nets, and therefore could fall back into poverty if they are struck by natural disasters or lose their jobs.
+
+</item>
+
+        <item>India is great</item>
+        <item>Nepal is aweosome</item>
+        <item>china besi din jayna</item>
+        <item>Pakistan Our enemy from 1971</item>
+        <item>Serilanka not bad</item>
+        <item>Bahrain : Munna Mama house</item>
+        <item>Armenia : Ami janina</item>
+        <item>Australia : Love</item>
+        <item>Azerbaijan : JANINA</item>
+        <item>Bhutan : WELL </item>
+        <item>Saudi Arab : makka</item>
+        <item>Brazil : football</item>
+        <item>Argentina : fOOTBALL</item>
+        <item>Germany : FOOTBALL</item>
+        <item>Belgium IS ALSO A LOVE</item>
+       <item>gooood</item>
+
+
+    </string-array>
+</resources>
